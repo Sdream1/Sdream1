@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 <!--
 **Sdream1/Sdream1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 自我介绍
+- 班级：18信安2班（gdut）
+- 姓名：杜维佳
+- github：https://github.com/Sdream1
+- 邮箱：1254653698@qq.com
+- 个人简介：老网抑，死肥宅，致力于转变成一个优秀的技术宅！
