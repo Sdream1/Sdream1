@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 2、姓名：杜维佳  
 3、github：https://github.com/Sdream1  
 4、邮箱：1254653698@qq.com  
-5、个人简介：老网抑，死肥宅，致力于转变成一个优秀的技术宅！  
+5、个人简介：加油！努力变得更好！  
